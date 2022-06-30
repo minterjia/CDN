@@ -1,7 +1,7 @@
 var LIVE2DCUBISMCORE = Live2DCubismCore
 //如果资源在CDN，一定要写http://或者https://否则会以本域名请求且为相对路径
 //模型的model3.json文件路径
-var baseModelPath = 'https://cdn.jsdelivr.net/gh/minterjia/CDN@2.0.0/index2.js'
+var baseModelPath = 'https://cdn.jsdelivr.net/npm/chenyfan-oss@2.0.2'
 var modelNames = ["lafei_4"];
 var modelPath;
 //Application全局变量
